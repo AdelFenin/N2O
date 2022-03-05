@@ -1,0 +1,2 @@
+(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[5396],{41755:function(n){n.exports=function(n){var a=n.COMMENT(/\(\*/,/\*\)/);return{illegal:/\S/,contains:[a,{className:"attribute",begin:/^[ ]*[a-zA-Z][a-zA-Z-_]*([\s-_]+[a-zA-Z][a-zA-Z]*)*/},{begin:/=/,end:/[.;]/,contains:[a,{className:"meta",begin:/\?.*\?/},{className:"string",variants:[n.APOS_STRING_MODE,n.QUOTE_STRING_MODE,{begin:"`",end:"`"}]}]}]}}}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_ebnf.92805812.chunk.js.map
